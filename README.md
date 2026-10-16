@@ -23,6 +23,5 @@ What your electricity costs you, day by day, with home-screen widgets. Official 
 | [**claude-mods**](https://github.com/augiefra/claude-mods) | One band above the Claude Code prompt: context, 5-hour and weekly limits against the clock, prompt cache countdown, session cost. |
 | [**awesome-claude-code-mods**](https://github.com/augiefra/awesome-claude-code-mods) | Every Claude Code mod on GitHub, with what each one can reach. |
 | [**PastScreen**](https://github.com/augiefra/PastScreen) | Ultra-fast, clipboard-first screenshots for developers on macOS. |
-| [**facilabo**](https://github.com/augiefra/facilabo) | The public ICS feeds behind FacilAbo, free to subscribe to. |
 
 If one of my tools saves you time, the nicest thank-you is to try FacilAbo or leave it a review. 🙏
