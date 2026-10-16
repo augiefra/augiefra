@@ -18,7 +18,7 @@ What your electricity costs you, day by day, with home-screen widgets. Official 
 
 #### 🛠 Open source
 
-| | |
+| Project | What it does |
 | --- | --- |
 | [**claude-mods**](https://github.com/augiefra/claude-mods) | One band above the Claude Code prompt: context, 5-hour and weekly limits against the clock, prompt cache countdown, session cost. |
 | [**awesome-claude-code-mods**](https://github.com/augiefra/awesome-claude-code-mods) | Every Claude Code mod on GitHub, with what each one can reach. |
