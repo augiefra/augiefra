@@ -10,9 +10,11 @@ Public holidays, school holidays, tax deadlines, exams, sport fixtures, festival
 
 ★ 4.9 on the App Store (54 ratings) · [App Store](https://apps.apple.com/fr/app/facilabo-de-200-calendriers/id6756318719) · [Google Play](https://play.google.com/store/apps/details?id=app.facilabo.android) · [facilabo.com](https://www.facilabo.com)
 
-#### ⚡ EuroVolt — your Linky meter, in euros
+#### ⚡ [EuroVolt](https://apps.apple.com/fr/app/eurovolt-conso-%C3%A9lectricit%C3%A9/id6761270150) — your Linky meter, in euros
 
-What your electricity costs you, day by day, with home-screen widgets. Official Enedis Data Connect access, no ads, nothing to sell you, analyses kept on your iPhone. *Coming soon on the App Store (France).*
+What your electricity costs you, day by day, with home-screen widgets. Official Enedis Data Connect access, no ads, nothing to sell you, analyses kept on your iPhone.
+
+[App Store](https://apps.apple.com/fr/app/eurovolt-conso-%C3%A9lectricit%C3%A9/id6761270150) (France)
 
 ---
 
