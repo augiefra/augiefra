@@ -10,25 +10,19 @@ Indie developer in France. I build small, useful apps for iPhone and Mac, and th
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://apps.apple.com/fr/app/facilabo-de-230-calendriers/id6756318719"><img src="https://raw.githubusercontent.com/augiefra/voxflow/main/assets/facilabo-icon.png" width="64" alt="FacilAbo"></a><br>
 <b>FacilAbo</b><br>
 <sub>230+ calendars, one tap to subscribe</sub><br>
 <sub>★ 4.9 (56 ratings) · iPhone</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://apps.apple.com/fr/app/eurovolt-conso-%C3%A9lectricit%C3%A9/id6761270150"><img src="https://raw.githubusercontent.com/augiefra/voxflow/main/assets/eurovolt-icon.png" width="64" alt="EuroVolt"></a><br>
 <b>EuroVolt</b><br>
 <sub>Your Linky meter, in euros</sub><br>
 <sub>iPhone · France</sub>
 </td>
-<td align="center" width="25%">
-<a href="https://apps.apple.com/fr/app/pastscreen/id6755425479"><img src="https://raw.githubusercontent.com/augiefra/voxflow/main/assets/pastscreen-icon.png" width="64" alt="PastScreen"></a><br>
-<b>PastScreen</b><br>
-<sub>Clipboard-first screenshots</sub><br>
-<sub>Mac App Store</sub>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://github.com/augiefra/voxflow"><img src="https://raw.githubusercontent.com/augiefra/voxflow/main/assets/voxflow-icon.png" width="64" alt="VoxFlow"></a><br>
 <b>VoxFlow</b><br>
 <sub>Private dictation, on-device</sub><br>
@@ -64,6 +58,5 @@ Private dictation for Mac: Voxtral and Qwen run on your Mac with MLX, nothing le
 | [**VoxFlow**](https://github.com/augiefra/voxflow) | Hold Fn, speak, it types. On-device dictation for Mac with Voxtral, Qwen and MLX. |
 | [**claude-mods**](https://github.com/augiefra/claude-mods) | One band above the Claude Code prompt: context, 5-hour and weekly limits against the clock, prompt cache countdown, session cost. |
 | [**awesome-claude-code-mods**](https://github.com/augiefra/awesome-claude-code-mods) | Every Claude Code mod on GitHub, with what each one can reach. |
-| [**PastScreen**](https://github.com/augiefra/PastScreen) | Ultra-fast, clipboard-first screenshots for developers on macOS. |
 
 If one of my tools saves you time, the nicest thank-you is to [try one of my apps](https://apps.apple.com/fr/developer/eric-cologni/id1853633356) or leave it a review. 🙏
