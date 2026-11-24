@@ -12,8 +12,8 @@
 
 <a href="https://apps.apple.com/fr/app/facilabo-de-230-calendriers/id6756318719">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/fa-dark.png">
-  <img src="assets/fa-light.png" width="100%" alt="FacilAbo: 250+ calendars, one tap to subscribe. 5,000+ downloads, rated 4.9 out of 5 from 64 ratings.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fa-dark-v2.png">
+  <img src="assets/fa-light-v2.png" width="100%" alt="FacilAbo: 250+ calendars, one tap to subscribe. 5,000+ downloads, rated 4.9 out of 5 from 64 ratings.">
 </picture>
 </a>
 
@@ -29,8 +29,8 @@
 
 <a href="https://apps.apple.com/app/id6824828966">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cd-dark.png">
-  <img src="assets/cd-light.png" width="100%" alt="ClimaDay: the weather for your plans. It reads your calendar and tells you if each plan is still on.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cd-dark-v2.png">
+  <img src="assets/cd-light-v2.png" width="100%" alt="ClimaDay: the weather for your plans. It reads your calendar and tells you if each plan is still on.">
 </picture>
 </a>
 
@@ -39,8 +39,8 @@
 
 <a href="https://apps.apple.com/fr/app/eurovolt-conso-%C3%A9lectricit%C3%A9/id6761270150">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ev-dark.png">
-  <img src="assets/ev-light.png" width="100%" alt="EuroVolt: your Linky meter, in euros, day by day, with home-screen widgets.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ev-dark-v2.png">
+  <img src="assets/ev-light-v2.png" width="100%" alt="EuroVolt: your Linky meter, in euros, day by day, with home-screen widgets.">
 </picture>
 </a>
 
